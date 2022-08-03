@@ -8,7 +8,7 @@ VRChat's Avatar Dynamics.
 ### Depends on
 - [ChilloutVR SDK](https://documentation.abinteractive.net/cck/)
 
-## CVR Conversion Tools
+## VRC - CVR Animator Conversion
 Utility for migrating VRChat animators to ChilloutVR. Changes the type of some parameters and then merges it with the default CVR AvatarAnimator.
 
 ### Depends on
