@@ -7,6 +7,7 @@ VRChat's Avatar Dynamics.
 
 ### Depends on
 - [ChilloutVR SDK](https://documentation.abinteractive.net/cck/)
+- Dynamic Bones
 
 ## VRC - CVR Animator Conversion
 Utility for migrating VRChat animators to ChilloutVR. Changes the type of some parameters and then merges it with the default CVR AvatarAnimator.
@@ -22,4 +23,4 @@ to make longer bone chains appear heavier.
 
 ### Depends on
 - VRChat Avatar 3.0 SDK
-- [ChilloutVR SDK](https://documentation.abinteractive.net/cck/)
+- Dynamic Bones
